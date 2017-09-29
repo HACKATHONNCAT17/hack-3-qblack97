@@ -13,7 +13,7 @@ In recent years we've seen more and more technologies being utilized to change l
 
 ### Innovativeness:
 
-- How innovative is the idea and will it have a competitive advantage for Cisco
+- How innovative is the idea?
 
 ### Value Proposition:
 
